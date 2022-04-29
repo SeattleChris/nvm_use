@@ -1,4 +1,4 @@
-# nvmrc_use
+# nvm_use
 
 **Author:** Chris Chapman
 
@@ -21,7 +21,7 @@ It MUST be placed after nvm initialization!
 ### Other notes
 
 ```zsh
-autoload -Uz nvmrc_use
+autoload -Uz nvm_use
 ```
 
 #### For example
